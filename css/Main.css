@@ -1,7 +1,18 @@
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: tomato;
+    font-weight: bold;
+}
+
 .logo {
     font-family: 'Brush Script MT', cursive;
     font-size: 2.2em;
-    color: #2ecc40;
+    color: tomato;
     font-weight: bold;
     letter-spacing: 2px;
+}
+
+.logo .img {
+    size: 1cm;
 }
