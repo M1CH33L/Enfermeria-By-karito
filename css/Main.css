@@ -1,8 +1,18 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: linear-gradient(to bottom, #1a1a1a, #000000);
+    background: #ecd5f550;
+    color: #222;
+}
+
 header {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: medium;
-    color: tomato;
-    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #222;
+    color: #fff;
+    padding: 10px 40px;
 }
 
 .logo {
